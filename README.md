@@ -1,4 +1,4 @@
-# Hi there, I'm Ayats! 👋
+# Hi there, I'm Aya Touirass! 👋
 
 I’m a cybersecurity enthusiast and developer with a passion for open-source projects and mastering new technologies. Welcome to my GitHub profile!
 ## About Me

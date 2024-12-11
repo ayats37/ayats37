@@ -14,6 +14,6 @@ I’m a cybersecurity enthusiast and developer with a passion for open-source pr
 
 ## Get in Touch
 
-- [![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium colored/folder/linkedIn.svg)](https://www.linkedin.com/in/ayats37)
-- [![Twitter](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium colored/folder/twitter.svg)](https://twitter.com/ayats37)
-- [![Email](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium colored/folder/email.svg)](mailto:ayats37@example.com)
+- [![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/size/small-filled/linkedin.svg)](https://www.linkedin.com/in/ayats37)
+- [![Twitter](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/size/small-filled/twitter.svg)](https://twitter.com/ayats37)
+- [![Email](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/size/small-filled/email.svg)](mailto:ayats37@example.com)

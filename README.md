@@ -3,9 +3,9 @@
 I’m a cybersecurity enthusiast and developer with a passion for open-source projects and mastering new technologies. Welcome to my GitHub profile!
 ## About Me
 
--💻 I’m passionate about cybersecurity and understanding systems at their core.
--🌱 Currently focused on mastering operating systems, filesystems like ext4, and automation tools.
--👯 Always open to collaborating on projects that challenge me and expand my knowledge.
+-I’m passionate about cybersecurity and understanding systems at their core.
+-Currently focused on mastering operating systems, filesystems like ext4, and automation tools.
+-Always open to collaborating on projects that challenge me and expand my knowledge.
 ## Skills
 
 - **Languages**: Python, Java, C, SQL
@@ -14,5 +14,6 @@ I’m a cybersecurity enthusiast and developer with a passion for open-source pr
 
 ## Get in Touch
 
-- [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg)](https://www.linkedin.com/in/ayats37)
-- [![Email](https://upload.wikimedia.org/wikipedia/commons/4/47/Email_icon_%282013-2018%29.svg)](mailto:ayats37@example.com)
+- [![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium colored/folder/linkedIn.svg)](https://www.linkedin.com/in/ayats37)
+- [![Twitter](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium colored/folder/twitter.svg)](https://twitter.com/ayats37)
+- [![Email](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium colored/folder/email.svg)](mailto:ayats37@example.com)

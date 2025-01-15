@@ -18,7 +18,7 @@
         <img alt="Instagram Profile" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
     </a>
     <span> * </span>
-    <a href="https://discord.gg/inviteLink">
+    <a href="https://discord.com/channels/@me/">
         <img alt="Discord Server" src="https://img.shields.io/badge/-Discord-7289da?style=flat&logo=Discord&logoColor=white" />
     </a>
 </p>

@@ -5,23 +5,40 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Aya's Page</title>
     <style>
-        @keyframes moveText {
-            0% { transform: translateX(0); }
-            50% { transform: translateX(20px); }
-            100% { transform: translateX(0); }
+        @keyframes floatMove {
+            0% {
+                transform: translateY(0) rotate(0deg);
+                opacity: 0;
+            }
+            25% {
+                transform: translateY(-10px) rotate(-5deg);
+                opacity: 0.7;
+            }
+            50% {
+                transform: translateY(0) rotate(5deg);
+                opacity: 1;
+            }
+            75% {
+                transform: translateY(10px) rotate(-5deg);
+                opacity: 0.7;
+            }
+            100% {
+                transform: translateY(0) rotate(0deg);
+                opacity: 1;
+            }
         }
 
-        .moving-text {
+        .anime-text {
             color: red;
-            font-size: 24px;
+            font-size: 30px;
             font-weight: bold;
-            animation: moveText 2s infinite;
+            animation: floatMove 3s ease-in-out infinite;
         }
     </style>
 </head>
 <body>
 
-    <p class="moving-text">Hi there, I'm Aya Touirass! 👋</p>
+    <p class="anime-text">Hi there, I'm Aya Touirass! 👋</p>
     
     <p align="center">
         <a href="https://github.com/oakoudad/badge42">
@@ -31,4 +48,5 @@
 
 </body>
 </html>
+
 

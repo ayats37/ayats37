@@ -8,20 +8,6 @@
 
 
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF23EF&background=FF1CBA00&multiline=true&width=435&lines=Hi+there%2C+I'm+Aya+Touirass!" alt="Typing SVG" />
-  </a>
-  <br>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=600&size=22&pause=1000&color=FF23EF&background=FF1CBA00&multiline=true&width=435&lines=Cybersecurity+engineering+student" alt="Typing SVG" />
-  </a>
-  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-</p>
-
-
-
-
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 Hello, I’m Aya Touirass, an Ethical Hacker and Cybersecurity Engineering student currently pursuing my studies at 1337 coding school and ENSA Tetouan. With a strong focus on ethical hacking, network security, and secure coding practices, I am dedicated to safeguarding digital infrastructures from emerging cyber threats. I strive to continuously deepen my expertise in identifying vulnerabilities and implementing proactive security measures. Outside of academics, I engage in projects that allow me to stay at the forefront of cybersecurity innovations, always eager to apply my knowledge to real-world challenges.
@@ -33,15 +19,9 @@ Hello, I’m Aya Touirass, an Ethical Hacker and Cybersecurity Engineering stude
 
 
 
-
-
-
 <p align="center">
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/taya" alt="taya's 42 stats" /></a>
 </p>
-
-
-
 
 
 

@@ -1,6 +1,6 @@
-<p align="center">
+
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF23EF&background=FF1CBA00&multiline=true&width=435&lines=Hi+there%2C+I'm+Aya+Touirass!+)](https://git.io/typing-svg) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-</p>
+
 
 🔗 &nbsp;**Connect with me**
 <p align="left">

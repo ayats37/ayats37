@@ -14,7 +14,7 @@
 </p>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-
+Hello, I’m Aya Touirass, an Ethical Hacker and Cybersecurity Engineering student currently pursuing my studies at 1337 coding school and ENSA Tetouan. With a strong focus on ethical hacking, network security, and secure coding practices, I am dedicated to safeguarding digital infrastructures from emerging cyber threats. I strive to continuously deepen my expertise in identifying vulnerabilities and implementing proactive security measures. Outside of academics, I engage in projects that allow me to stay at the forefront of cybersecurity innovations, always eager to apply my knowledge to real-world challenges.
 
 
 ## Programming Languages

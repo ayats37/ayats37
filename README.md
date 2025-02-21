@@ -1,4 +1,4 @@
-# Hi there, I'm Aya Touirass! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF23EF&background=FF1CBA00&multiline=true&width=435&lines=Hi+there%2C+I'm+Aya+Touirass!+)](https://git.io/typing-svg) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 <p align="center">
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/taya" alt="taya's 42 stats" /></a>

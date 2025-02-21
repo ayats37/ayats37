@@ -1,4 +1,4 @@
-# Hi there, I'm Aya Touirass! 👋
+# Hi there, I'm Aya Touirass! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 <p align="center">
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/taya" alt="taya's 42 stats" /></a>

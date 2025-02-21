@@ -1,5 +1,13 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF23EF&background=FF1CBA00&multiline=true&width=435&lines=Hi+there%2C+I'm+Aya+Touirass!+)](https://git.io/typing-svg) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
+🔗 &nbsp;**Connect with me**
+<p align="left">
+<a href="https://dev.to/ayats37" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ayats37" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aya-touirass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayats37" height="30" width="40" /></a>
+<a href="https://instagram.com/aya_ts37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cyberguardians444" height="30" width="40" /></a>
+</p>
+
+
 <p align="center">
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/taya" alt="taya's 42 stats" /></a>
 </p>

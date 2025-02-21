@@ -33,7 +33,7 @@ Hello, I’m Aya Touirass, an Ethical Hacker and Cybersecurity Engineering stude
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://linkedin.com/in/aya-touirass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayats37" height="30" width="40" /></a>
+<a href="https://linkedin.com/in//aya-touirass-787578294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayats37" height="30" width="40" /></a>
 <a href="https://instagram.com/aya_ts37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cyberguardians444" height="30" width="40" /></a>
 </p>
 

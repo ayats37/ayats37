@@ -13,18 +13,6 @@
   <br>
 </p>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<svg width="100%" height="120" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-        <linearGradient id="gradient" x1="0%" y1="50%" x2="100%" y2="50%">
-            <stop offset="0%" style="stop-color:#FF23EFFF; stop-opacity:1"/>
-            <stop offset="100%" style="stop-color:#FF23EFFF; stop-opacity:1"/>
-        </linearGradient>
-    </defs>
-    <text x="50%" y="60%" font-size="40" fill="url(#gradient)" font-family="Arial, sans-serif" font-weight="bold" text-anchor="middle">
-        Thanks for visiting me!
-    </text>
-</svg>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
 </p>
